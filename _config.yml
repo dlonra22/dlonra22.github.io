@@ -1,11 +1,11 @@
 # Site settings
-author: arnie b
-title: 
+author: Arnold Bwaila
+title: Arnold Bwaila Ruby Portfolio
 header-img: img/home-bg.png
 email: arnold.bwaila@gmail.com
-copyright_name: arnie b
+copyright_name: Arnold Bwaila
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Ruby Progress Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dlonra22
